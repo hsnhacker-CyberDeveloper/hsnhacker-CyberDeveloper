@@ -7,23 +7,16 @@ I'm Muhammad Hassan Qadri, a passionate 16-year-old ethical hacker and web devel
 
 > "Security is not a product, it's a process."
 
-🔹 Ethical Hacker  
-🔹 Linux & Bash  
+🔹 Ethical Hacking
+🔹 Linux & Bash scripting 
 🔹 Cybersecurity Student  
 🔹 Passionate Learner
+🔹 Networking
 
-<div class="terminal-container">
-  <div class="terminal-header">
-    <span class="dot red"></span>
-    <span class="dot yellow"></span>
-    <span class="dot green"></span>
-    <p style="color green">root@github:~</p>
-  </div>
-  <div id="terminal-body">
-    <div id="output"></div>
-    <span id="cursor">_</span>
-  </div>
-</div>
+Ethical Hacker | Cybersecurity Enthusiast | Linux Lover
+
+@hsnhacker-Cyberdeveloper $ whoami
+@hsnhacker-Cyberdeveloper $ The best Hacker in the universe
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hassan-006361381/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hsnhackers.work@gmail.com) 
